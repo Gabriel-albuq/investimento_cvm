@@ -1,0 +1,336 @@
+Codigo Empresa;Data Ref;Ano;Mes;Dia;Codigo Conta;Descricao Conta;Valor Trimestre Atual;Valor Exercicio Anterior;Precisao
+007617;30/09/2021;2021;09;30;1;Ativo Total;81.007.000;72.600.000;Mil
+007617;30/09/2021;2021;09;30;1.01;Ativo Circulante;7.626.000;8.023.000;Mil
+007617;30/09/2021;2021;09;30;1.01.01;Caixa e Equivalentes de Caixa;2.517.000;2.887.000;Mil
+007617;30/09/2021;2021;09;30;1.01.02;Aplicações Financeiras;1.412.000;1.473.000;Mil
+007617;30/09/2021;2021;09;30;1.01.02.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;1.412.000;1.473.000;Mil
+007617;30/09/2021;2021;09;30;1.01.02.01.01;Títulos para Negociação;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.02.01.02;Títulos Designados a Valor Justo;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.02.01.03;Ativos Financeiros Mensurados ao Valor Justo por meio do Resultado;1.412.000;1.473.000;Mil
+007617;30/09/2021;2021;09;30;1.01.02.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.02.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.03;Contas a Receber;1.942.000;2.190.000;Mil
+007617;30/09/2021;2021;09;30;1.01.03.01;Clientes;1.526.000;1.239.000;Mil
+007617;30/09/2021;2021;09;30;1.01.03.02;Outras Contas a Receber;416.000;951.000;Mil
+007617;30/09/2021;2021;09;30;1.01.03.02.01;Dividendos e Juros sobre o Capital Próprio;416.000;951.000;Mil
+007617;30/09/2021;2021;09;30;1.01.04;Estoques;1.251.000;925.000;Mil
+007617;30/09/2021;2021;09;30;1.01.05;Ativos Biológicos;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.06;Tributos a Recuperar;281.000;352.000;Mil
+007617;30/09/2021;2021;09;30;1.01.06.01;Tributos Correntes a Recuperar;281.000;352.000;Mil
+007617;30/09/2021;2021;09;30;1.01.06.01.01;Imposto de renda e Contribuição social a compensar;182.000;274.000;Mil
+007617;30/09/2021;2021;09;30;1.01.06.01.02;Outros tributos a compensar;99.000;78.000;Mil
+007617;30/09/2021;2021;09;30;1.01.07;Despesas Antecipadas;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.08;Outros Ativos Circulantes;223.000;196.000;Mil
+007617;30/09/2021;2021;09;30;1.01.08.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.08.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;30/09/2021;2021;09;30;1.01.08.03;Outros;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02;Ativo Não Circulante;73.381.000;64.577.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01;Ativo Realizável a Longo Prazo;3.273.000;2.851.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;6.000;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.01.01;Títulos Designados a Valor Justo;6.000;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;20.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.03.01;Debêntures;0;20.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.04;Contas a Receber;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.04.01;Clientes;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.04.02;Outras Contas a Receber;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.05;Estoques;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.06;Ativos Biológicos;1.177.000;1.143.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.07;Tributos Diferidos;726.000;958.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.07.01;Imposto de Renda e Contribuição Social Diferidos;726.000;958.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.08;Despesas Antecipadas;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.09;Créditos com Partes Relacionadas;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.09.01;Créditos com Coligadas;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.09.03;Créditos com Controladores;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.09.04;Créditos com Outras Partes Relacionadas;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10;Outros Ativos Não Circulantes;1.364.000;730.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.03;Depósitos Judiciais em Garantia de Contingências;115.000;100.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.04;Outros Ativos;133.000;150.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.05;Ativos de Direito de Uso;361.000;348.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.06;Benefícios a empregados;119.000;106.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.07;Outros tributos a compensar;628.000;18.000;Mil
+007617;30/09/2021;2021;09;30;1.02.01.10.08;Imposto de renda e Contribuição social a compensar;8.000;8.000;Mil
+007617;30/09/2021;2021;09;30;1.02.02;Investimentos;65.722.000;57.371.000;Mil
+007617;30/09/2021;2021;09;30;1.02.02.01;Participações Societárias;65.722.000;57.371.000;Mil
+007617;30/09/2021;2021;09;30;1.02.02.01.01;Participações em Coligadas;4.892.000;2.072.000;Mil
+007617;30/09/2021;2021;09;30;1.02.02.01.04;Participações em Controladas em Conjunto;60.822.000;55.290.000;Mil
+007617;30/09/2021;2021;09;30;1.02.02.01.05;Outros Investimentos;8.000;9.000;Mil
+007617;30/09/2021;2021;09;30;1.02.02.02;Propriedades para Investimento;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.03;Imobilizado;3.642.000;3.616.000;Mil
+007617;30/09/2021;2021;09;30;1.02.03.01;Imobilizado em Operação;3.642.000;3.616.000;Mil
+007617;30/09/2021;2021;09;30;1.02.03.02;Direito de Uso em Arrendamento;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.03.03;Imobilizado em Andamento;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.04;Intangível;744.000;739.000;Mil
+007617;30/09/2021;2021;09;30;1.02.04.01;Intangíveis;744.000;739.000;Mil
+007617;30/09/2021;2021;09;30;1.02.04.01.01;Contrato de Concessão;0;0;Mil
+007617;30/09/2021;2021;09;30;1.02.04.02;Goodwill;0;0;Mil
+007617;31/03/2023;2023;03;31;1;Ativo Total;97.875.000;96.637.000;Mil
+007617;31/03/2023;2023;03;31;1.01;Ativo Circulante;11.184.000;11.692.000;Mil
+007617;31/03/2023;2023;03;31;1.01.01;Caixa e Equivalentes de Caixa;4.288.000;4.472.000;Mil
+007617;31/03/2023;2023;03;31;1.01.02;Aplicações Financeiras;1.993.000;2.005.000;Mil
+007617;31/03/2023;2023;03;31;1.01.02.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;1.993.000;2.005.000;Mil
+007617;31/03/2023;2023;03;31;1.01.02.01.01;Títulos para Negociação;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.02.01.02;Títulos Designados a Valor Justo;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.02.01.03;Ativos Financeiros Mensurados ao Valor Justo por meio do Resultado;1.993.000;2.005.000;Mil
+007617;31/03/2023;2023;03;31;1.01.02.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.02.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.03;Contas a Receber;2.269.000;3.056.000;Mil
+007617;31/03/2023;2023;03;31;1.01.03.01;Clientes;1.289.000;1.425.000;Mil
+007617;31/03/2023;2023;03;31;1.01.03.02;Outras Contas a Receber;980.000;1.631.000;Mil
+007617;31/03/2023;2023;03;31;1.01.03.02.01;Dividendos e Juros sobre o Capital Próprio;980.000;1.631.000;Mil
+007617;31/03/2023;2023;03;31;1.01.04;Estoques;1.707.000;1.605.000;Mil
+007617;31/03/2023;2023;03;31;1.01.05;Ativos Biológicos;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.06;Tributos a Recuperar;632.000;387.000;Mil
+007617;31/03/2023;2023;03;31;1.01.06.01;Tributos Correntes a Recuperar;632.000;387.000;Mil
+007617;31/03/2023;2023;03;31;1.01.06.01.01;Imposto de renda e Contribuição social a compensar;552.000;308.000;Mil
+007617;31/03/2023;2023;03;31;1.01.06.01.02;Outros tributos a compensar;80.000;79.000;Mil
+007617;31/03/2023;2023;03;31;1.01.07;Despesas Antecipadas;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.08;Outros Ativos Circulantes;295.000;167.000;Mil
+007617;31/03/2023;2023;03;31;1.01.08.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.08.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;31/03/2023;2023;03;31;1.01.08.03;Outros;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02;Ativo Não Circulante;86.691.000;84.945.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01;Ativo Realizável a Longo Prazo;5.032.000;4.644.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;121.000;50.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.01.01;Títulos Designados a Valor Justo;121.000;50.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.03.01;Debêntures;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.04;Contas a Receber;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.04.01;Clientes;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.04.02;Outras Contas a Receber;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.05;Estoques;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.06;Ativos Biológicos;2.127.000;1.917.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.07;Tributos Diferidos;1.140.000;1.089.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.07.01;Imposto de Renda e Contribuição Social Diferidos;1.140.000;1.089.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.08;Despesas Antecipadas;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.09;Créditos com Partes Relacionadas;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.09.01;Créditos com Coligadas;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.09.03;Créditos com Controladores;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.09.04;Créditos com Outras Partes Relacionadas;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10;Outros Ativos Não Circulantes;1.644.000;1.588.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.03;Depósitos Judiciais em Garantia de Contingências;140.000;148.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.04;Outros Ativos;237.000;147.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.05;Ativos de Direito de Uso;590.000;565.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.06;Benefícios a empregados;122.000;123.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.07;Outros tributos a compensar;546.000;596.000;Mil
+007617;31/03/2023;2023;03;31;1.02.01.10.08;Imposto de renda e Contribuição social a compensar;9.000;9.000;Mil
+007617;31/03/2023;2023;03;31;1.02.02;Investimentos;76.725.000;75.364.000;Mil
+007617;31/03/2023;2023;03;31;1.02.02.01;Participações Societárias;76.725.000;75.364.000;Mil
+007617;31/03/2023;2023;03;31;1.02.02.01.01;Participações em Coligadas;10.316.000;10.209.000;Mil
+007617;31/03/2023;2023;03;31;1.02.02.01.04;Participações em Controladas em Conjunto;66.402.000;65.148.000;Mil
+007617;31/03/2023;2023;03;31;1.02.02.01.05;Outros Investimentos;7.000;7.000;Mil
+007617;31/03/2023;2023;03;31;1.02.02.02;Propriedades para Investimento;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.03;Imobilizado;4.067.000;4.055.000;Mil
+007617;31/03/2023;2023;03;31;1.02.03.01;Imobilizado em Operação;4.067.000;4.055.000;Mil
+007617;31/03/2023;2023;03;31;1.02.03.02;Direito de Uso em Arrendamento;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.03.03;Imobilizado em Andamento;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.04;Intangível;867.000;882.000;Mil
+007617;31/03/2023;2023;03;31;1.02.04.01;Intangíveis;867.000;882.000;Mil
+007617;31/03/2023;2023;03;31;1.02.04.01.01;Contrato de Concessão;0;0;Mil
+007617;31/03/2023;2023;03;31;1.02.04.02;Goodwill;0;0;Mil
+007617;30/06/2023;2023;06;30;1;Ativo Total;102.327.000;96.637.000;Mil
+007617;30/06/2023;2023;06;30;1.01;Ativo Circulante;13.210.000;11.692.000;Mil
+007617;30/06/2023;2023;06;30;1.01.01;Caixa e Equivalentes de Caixa;5.547.000;4.472.000;Mil
+007617;30/06/2023;2023;06;30;1.01.02;Aplicações Financeiras;2.059.000;2.005.000;Mil
+007617;30/06/2023;2023;06;30;1.01.02.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;2.059.000;2.005.000;Mil
+007617;30/06/2023;2023;06;30;1.01.02.01.01;Títulos para Negociação;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.02.01.02;Títulos Designados a Valor Justo;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.02.01.03;Ativos Financeiros Mensurados ao Valor Justo por meio do Resultado;2.059.000;2.005.000;Mil
+007617;30/06/2023;2023;06;30;1.01.02.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.02.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.03;Contas a Receber;3.071.000;3.056.000;Mil
+007617;30/06/2023;2023;06;30;1.01.03.01;Clientes;1.334.000;1.425.000;Mil
+007617;30/06/2023;2023;06;30;1.01.03.02;Outras Contas a Receber;1.737.000;1.631.000;Mil
+007617;30/06/2023;2023;06;30;1.01.03.02.01;Dividendos e Juros sobre o Capital Próprio;1.737.000;1.631.000;Mil
+007617;30/06/2023;2023;06;30;1.01.04;Estoques;1.617.000;1.605.000;Mil
+007617;30/06/2023;2023;06;30;1.01.05;Ativos Biológicos;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.06;Tributos a Recuperar;735.000;387.000;Mil
+007617;30/06/2023;2023;06;30;1.01.06.01;Tributos Correntes a Recuperar;735.000;387.000;Mil
+007617;30/06/2023;2023;06;30;1.01.06.01.01;Imposto de renda e Contribuição social a compensar;450.000;308.000;Mil
+007617;30/06/2023;2023;06;30;1.01.06.01.02;Outros tributos a compensar;285.000;79.000;Mil
+007617;30/06/2023;2023;06;30;1.01.07;Despesas Antecipadas;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.08;Outros Ativos Circulantes;181.000;167.000;Mil
+007617;30/06/2023;2023;06;30;1.01.08.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.08.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;30/06/2023;2023;06;30;1.01.08.03;Outros;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02;Ativo Não Circulante;89.117.000;84.945.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01;Ativo Realizável a Longo Prazo;5.295.000;4.644.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;136.000;50.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.01.01;Títulos Designados a Valor Justo;136.000;50.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.03.01;Debêntures;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.04;Contas a Receber;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.04.01;Clientes;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.04.02;Outras Contas a Receber;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.05;Estoques;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.06;Ativos Biológicos;2.315.000;1.917.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.07;Tributos Diferidos;1.150.000;1.089.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.07.01;Imposto de Renda e Contribuição Social Diferidos;1.150.000;1.089.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.08;Despesas Antecipadas;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.09;Créditos com Partes Relacionadas;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.09.01;Créditos com Coligadas;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.09.03;Créditos com Controladores;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.09.04;Créditos com Outras Partes Relacionadas;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10;Outros Ativos Não Circulantes;1.694.000;1.588.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.03;Depósitos Judiciais em Garantia de Contingências;144.000;148.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.04;Outros Ativos;334.000;147.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.05;Ativos de Direito de Uso;580.000;565.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.06;Benefícios a empregados;125.000;123.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.07;Outros tributos a compensar;502.000;596.000;Mil
+007617;30/06/2023;2023;06;30;1.02.01.10.08;Imposto de renda e Contribuição social a compensar;9.000;9.000;Mil
+007617;30/06/2023;2023;06;30;1.02.02;Investimentos;78.767.000;75.364.000;Mil
+007617;30/06/2023;2023;06;30;1.02.02.01;Participações Societárias;78.767.000;75.364.000;Mil
+007617;30/06/2023;2023;06;30;1.02.02.01.01;Participações em Coligadas;9.703.000;10.209.000;Mil
+007617;30/06/2023;2023;06;30;1.02.02.01.04;Participações em Controladas em Conjunto;69.057.000;65.148.000;Mil
+007617;30/06/2023;2023;06;30;1.02.02.01.05;Outros Investimentos;7.000;7.000;Mil
+007617;30/06/2023;2023;06;30;1.02.02.02;Propriedades para Investimento;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.03;Imobilizado;4.173.000;4.055.000;Mil
+007617;30/06/2023;2023;06;30;1.02.03.01;Imobilizado em Operação;4.173.000;4.055.000;Mil
+007617;30/06/2023;2023;06;30;1.02.03.02;Direito de Uso em Arrendamento;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.03.03;Imobilizado em Andamento;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.04;Intangível;882.000;882.000;Mil
+007617;30/06/2023;2023;06;30;1.02.04.01;Intangíveis;882.000;882.000;Mil
+007617;30/06/2023;2023;06;30;1.02.04.01.01;Contrato de Concessão;0;0;Mil
+007617;30/06/2023;2023;06;30;1.02.04.02;Goodwill;0;0;Mil
+007617;30/09/2023;2023;09;30;1;Ativo Total;102.815.000;96.637.000;Mil
+007617;30/09/2023;2023;09;30;1.01;Ativo Circulante;12.675.000;11.692.000;Mil
+007617;30/09/2023;2023;09;30;1.01.01;Caixa e Equivalentes de Caixa;4.889.000;4.472.000;Mil
+007617;30/09/2023;2023;09;30;1.01.02;Aplicações Financeiras;3.319.000;2.005.000;Mil
+007617;30/09/2023;2023;09;30;1.01.02.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;3.319.000;2.005.000;Mil
+007617;30/09/2023;2023;09;30;1.01.02.01.01;Títulos para Negociação;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.02.01.02;Títulos Designados a Valor Justo;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.02.01.03;Ativos Financeiros Mensurados ao Valor Justo por meio do Resultado;3.319.000;2.005.000;Mil
+007617;30/09/2023;2023;09;30;1.01.02.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.02.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.03;Contas a Receber;2.183.000;3.056.000;Mil
+007617;30/09/2023;2023;09;30;1.01.03.01;Clientes;1.200.000;1.425.000;Mil
+007617;30/09/2023;2023;09;30;1.01.03.02;Outras Contas a Receber;983.000;1.631.000;Mil
+007617;30/09/2023;2023;09;30;1.01.03.02.01;Dividendos e Juros sobre o Capital Próprio;983.000;1.631.000;Mil
+007617;30/09/2023;2023;09;30;1.01.04;Estoques;1.534.000;1.605.000;Mil
+007617;30/09/2023;2023;09;30;1.01.05;Ativos Biológicos;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.06;Tributos a Recuperar;567.000;387.000;Mil
+007617;30/09/2023;2023;09;30;1.01.06.01;Tributos Correntes a Recuperar;567.000;387.000;Mil
+007617;30/09/2023;2023;09;30;1.01.06.01.01;Imposto de renda e Contribuição social a compensar;342.000;308.000;Mil
+007617;30/09/2023;2023;09;30;1.01.06.01.02;Outros tributos a compensar;225.000;79.000;Mil
+007617;30/09/2023;2023;09;30;1.01.07;Despesas Antecipadas;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.08;Outros Ativos Circulantes;183.000;167.000;Mil
+007617;30/09/2023;2023;09;30;1.01.08.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.08.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;30/09/2023;2023;09;30;1.01.08.03;Outros;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02;Ativo Não Circulante;90.140.000;84.945.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01;Ativo Realizável a Longo Prazo;5.623.000;4.644.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;137.000;50.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.01.01;Títulos Designados a Valor Justo;137.000;50.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.03.01;Debêntures;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.04;Contas a Receber;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.04.01;Clientes;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.04.02;Outras Contas a Receber;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.05;Estoques;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.06;Ativos Biológicos;2.514.000;1.917.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.07;Tributos Diferidos;1.143.000;1.089.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.07.01;Imposto de Renda e Contribuição Social Diferidos;1.143.000;1.089.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.08;Despesas Antecipadas;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.09;Créditos com Partes Relacionadas;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.09.01;Créditos com Coligadas;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.09.03;Créditos com Controladores;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.09.04;Créditos com Outras Partes Relacionadas;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10;Outros Ativos Não Circulantes;1.829.000;1.588.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.03;Depósitos Judiciais em Garantia de Contingências;142.000;148.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.05;Ativos de Direito de Uso;525.000;565.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.06;Benefícios a empregados;124.000;123.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.07;Outros tributos a compensar;745.000;596.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.08;Imposto de renda e Contribuição social a compensar;9.000;9.000;Mil
+007617;30/09/2023;2023;09;30;1.02.01.10.09;Outros Ativos;284.000;147.000;Mil
+007617;30/09/2023;2023;09;30;1.02.02;Investimentos;79.368.000;75.364.000;Mil
+007617;30/09/2023;2023;09;30;1.02.02.01;Participações Societárias;79.368.000;75.364.000;Mil
+007617;30/09/2023;2023;09;30;1.02.02.01.01;Participações em Coligadas;8.518.000;10.209.000;Mil
+007617;30/09/2023;2023;09;30;1.02.02.01.04;Participações em Controladas em Conjunto;70.843.000;65.148.000;Mil
+007617;30/09/2023;2023;09;30;1.02.02.01.05;Outros Investimentos;7.000;7.000;Mil
+007617;30/09/2023;2023;09;30;1.02.02.02;Propriedades para Investimento;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.03;Imobilizado;4.265.000;4.055.000;Mil
+007617;30/09/2023;2023;09;30;1.02.03.01;Imobilizado em Operação;3.342.000;3.401.000;Mil
+007617;30/09/2023;2023;09;30;1.02.03.02;Direito de Uso em Arrendamento;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.03.03;Imobilizado em Andamento;923.000;654.000;Mil
+007617;30/09/2023;2023;09;30;1.02.04;Intangível;884.000;882.000;Mil
+007617;30/09/2023;2023;09;30;1.02.04.01;Intangíveis;884.000;882.000;Mil
+007617;30/09/2023;2023;09;30;1.02.04.01.01;Contrato de Concessão;0;0;Mil
+007617;30/09/2023;2023;09;30;1.02.04.02;Goodwill;0;0;Mil
+007617;31/03/2024;2024;03;31;1;Ativo Total;103.966.000;105.348.000;Mil
+007617;31/03/2024;2024;03;31;1.01;Ativo Circulante;12.820.000;12.653.000;Mil
+007617;31/03/2024;2024;03;31;1.01.01;Caixa e Equivalentes de Caixa;6.613.000;5.977.000;Mil
+007617;31/03/2024;2024;03;31;1.01.02;Aplicações Financeiras;1.773.000;1.716.000;Mil
+007617;31/03/2024;2024;03;31;1.01.02.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;1.773.000;1.716.000;Mil
+007617;31/03/2024;2024;03;31;1.01.02.01.01;Títulos para Negociação;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.02.01.02;Títulos Designados a Valor Justo;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.02.01.03;Ativos Financeiros Mensurados ao Valor Justo por meio do Resultado;1.773.000;1.716.000;Mil
+007617;31/03/2024;2024;03;31;1.01.02.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.02.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.03;Contas a Receber;2.196.000;2.979.000;Mil
+007617;31/03/2024;2024;03;31;1.01.03.01;Clientes;1.282.000;1.160.000;Mil
+007617;31/03/2024;2024;03;31;1.01.03.02;Outras Contas a Receber;914.000;1.819.000;Mil
+007617;31/03/2024;2024;03;31;1.01.03.02.01;Dividendos e Juros sobre o Capital Próprio;914.000;1.819.000;Mil
+007617;31/03/2024;2024;03;31;1.01.04;Estoques;1.479.000;1.403.000;Mil
+007617;31/03/2024;2024;03;31;1.01.05;Ativos Biológicos;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.06;Tributos a Recuperar;567.000;387.000;Mil
+007617;31/03/2024;2024;03;31;1.01.06.01;Tributos Correntes a Recuperar;567.000;387.000;Mil
+007617;31/03/2024;2024;03;31;1.01.06.01.01;Imposto de renda e Contribuição social a compensar;413.000;265.000;Mil
+007617;31/03/2024;2024;03;31;1.01.06.01.02;Outros tributos a compensar;154.000;122.000;Mil
+007617;31/03/2024;2024;03;31;1.01.07;Despesas Antecipadas;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.08;Outros Ativos Circulantes;192.000;191.000;Mil
+007617;31/03/2024;2024;03;31;1.01.08.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.08.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;31/03/2024;2024;03;31;1.01.08.03;Outros;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02;Ativo Não Circulante;91.146.000;92.695.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01;Ativo Realizável a Longo Prazo;6.046.000;6.117.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.01;Aplicações Financeiras Avaliadas a Valor Justo através do Resultado;145.000;138.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.01.01;Títulos Designados a Valor Justo;145.000;138.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.02;Aplicações Financeiras Avaliadas a Valor Justo através de Outros Resultados Abrangentes;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.03;Aplicações Financeiras Avaliadas ao Custo Amortizado;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.03.01;Debêntures;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.04;Contas a Receber;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.04.01;Clientes;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.04.02;Outras Contas a Receber;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.05;Estoques;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.06;Ativos Biológicos;2.508.000;2.503.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.07;Tributos Diferidos;1.511.000;1.490.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.07.01;Imposto de Renda e Contribuição Social Diferidos;1.511.000;1.490.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.08;Despesas Antecipadas;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.09;Créditos com Partes Relacionadas;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.09.01;Créditos com Coligadas;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.09.03;Créditos com Controladores;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.09.04;Créditos com Outras Partes Relacionadas;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10;Outros Ativos Não Circulantes;1.882.000;1.986.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.01;Ativos Não-Correntes a Venda;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.02;Ativos de Operações Descontinuadas;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.03;Depósitos Judiciais em Garantia de Contingências;153.000;153.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.05;Ativos de Direito de Uso;693.000;690.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.06;Benefícios a empregados;125.000;128.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.07;Outros tributos a compensar;603.000;645.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.08;Imposto de renda e Contribuição social a compensar;9.000;9.000;Mil
+007617;31/03/2024;2024;03;31;1.02.01.10.09;Outros Ativos;299.000;361.000;Mil
+007617;31/03/2024;2024;03;31;1.02.02;Investimentos;79.769.000;81.297.000;Mil
+007617;31/03/2024;2024;03;31;1.02.02.01;Participações Societárias;79.769.000;81.297.000;Mil
+007617;31/03/2024;2024;03;31;1.02.02.01.01;Participações em Coligadas;8.583.000;8.499.000;Mil
+007617;31/03/2024;2024;03;31;1.02.02.01.04;Participações em Controladas em Conjunto;71.179.000;72.791.000;Mil
+007617;31/03/2024;2024;03;31;1.02.02.01.05;Outros Investimentos;7.000;7.000;Mil
+007617;31/03/2024;2024;03;31;1.02.02.02;Propriedades para Investimento;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.03;Imobilizado;4.473.000;4.415.000;Mil
+007617;31/03/2024;2024;03;31;1.02.03.01;Imobilizado em Operação;3.356.000;3.287.000;Mil
+007617;31/03/2024;2024;03;31;1.02.03.02;Direito de Uso em Arrendamento;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.03.03;Imobilizado em Andamento;1.117.000;1.128.000;Mil
+007617;31/03/2024;2024;03;31;1.02.04;Intangível;858.000;866.000;Mil
+007617;31/03/2024;2024;03;31;1.02.04.01;Intangíveis;858.000;866.000;Mil
+007617;31/03/2024;2024;03;31;1.02.04.01.01;Contrato de Concessão;0;0;Mil
+007617;31/03/2024;2024;03;31;1.02.04.02;Goodwill;0;0;Mil

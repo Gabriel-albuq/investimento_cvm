@@ -1,0 +1,563 @@
+Codigo Empresa;Data Ref;Ano;Mes;Dia;Codigo Conta;Descricao Conta;Valor Trimestre Atual;Valor Exercicio Anterior;Precisao
+007617;20210930;2021;09;30;2;Passivo Total;70.712.000;62.985.000;Mil
+007617;20210930;2021;09;30;2.01;Passivo Circulante;2.105.000;1.342.000;Mil
+007617;20210930;2021;09;30;2.01.01;Obrigações Sociais e Trabalhistas;35.000;47.000;Mil
+007617;20210930;2021;09;30;2.01.01.01;Obrigações Sociais;0;0;Mil
+007617;20210930;2021;09;30;2.01.01.02;Obrigações Trabalhistas;35.000;47.000;Mil
+007617;20210930;2021;09;30;2.01.02;Fornecedores;18.000;27.000;Mil
+007617;20210930;2021;09;30;2.01.02.01;Fornecedores Nacionais;18.000;27.000;Mil
+007617;20210930;2021;09;30;2.01.02.02;Fornecedores Estrangeiros;0;0;Mil
+007617;20210930;2021;09;30;2.01.03;Obrigações Fiscais;0;29.000;Mil
+007617;20210930;2021;09;30;2.01.03.01;Obrigações Fiscais Federais;0;29.000;Mil
+007617;20210930;2021;09;30;2.01.03.01.01;Imposto de Renda e Contribuição Social a Pagar;0;0;Mil
+007617;20210930;2021;09;30;2.01.03.01.02;Outras Obrigações Fiscais;0;29.000;Mil
+007617;20210930;2021;09;30;2.01.03.02;Obrigações Fiscais Estaduais;0;0;Mil
+007617;20210930;2021;09;30;2.01.03.03;Obrigações Fiscais Municipais;0;0;Mil
+007617;20210930;2021;09;30;2.01.04;Empréstimos e Financiamentos;488.000;2.000;Mil
+007617;20210930;2021;09;30;2.01.04.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20210930;2021;09;30;2.01.04.01.01;Em Moeda Nacional;0;0;Mil
+007617;20210930;2021;09;30;2.01.04.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20210930;2021;09;30;2.01.04.02;Debêntures;488.000;2.000;Mil
+007617;20210930;2021;09;30;2.01.04.03;Financiamento por Arrendamento;0;0;Mil
+007617;20210930;2021;09;30;2.01.05;Outras Obrigações;1.564.000;1.237.000;Mil
+007617;20210930;2021;09;30;2.01.05.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20210930;2021;09;30;2.01.05.01.01;Débitos com Coligadas;0;0;Mil
+007617;20210930;2021;09;30;2.01.05.01.02;Débitos com Controladas;0;0;Mil
+007617;20210930;2021;09;30;2.01.05.01.03;Débitos com Controladores;0;0;Mil
+007617;20210930;2021;09;30;2.01.05.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20210930;2021;09;30;2.01.05.02;Outros;1.564.000;1.237.000;Mil
+007617;20210930;2021;09;30;2.01.05.02.01;Dividendos e JCP a Pagar;1.104.000;1.232.000;Mil
+007617;20210930;2021;09;30;2.01.05.02.02;Dividendo Mínimo Obrigatório a Pagar;0;0;Mil
+007617;20210930;2021;09;30;2.01.05.02.03;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20210930;2021;09;30;2.01.05.02.04;Outros Passivos;457.000;2.000;Mil
+007617;20210930;2021;09;30;2.01.05.02.05;Passivos de Arrendamentos;3.000;3.000;Mil
+007617;20210930;2021;09;30;2.01.06;Provisões;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.01.01;Provisões Fiscais;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.01.04;Provisões Cíveis;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.02;Outras Provisões;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.02.01;Provisões para Garantias;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20210930;2021;09;30;2.01.06.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20210930;2021;09;30;2.01.07;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20210930;2021;09;30;2.01.07.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20210930;2021;09;30;2.01.07.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20210930;2021;09;30;2.02;Passivo Não Circulante;6.005.000;4.300.000;Mil
+007617;20210930;2021;09;30;2.02.01;Empréstimos e Financiamentos;4.586.000;2.492.000;Mil
+007617;20210930;2021;09;30;2.02.01.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20210930;2021;09;30;2.02.01.01.01;Em Moeda Nacional;0;0;Mil
+007617;20210930;2021;09;30;2.02.01.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20210930;2021;09;30;2.02.01.02;Debêntures;4.586.000;2.492.000;Mil
+007617;20210930;2021;09;30;2.02.01.03;Financiamento por Arrendamento;0;0;Mil
+007617;20210930;2021;09;30;2.02.02;Outras Obrigações;44.000;459.000;Mil
+007617;20210930;2021;09;30;2.02.02.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.01.01;Débitos com Coligadas;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.01.02;Débitos com Controladas;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.01.03;Débitos com Controladores;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.02;Outros;44.000;459.000;Mil
+007617;20210930;2021;09;30;2.02.02.02.01;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.02.02;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.02.03;Outros Passivos;0;425.000;Mil
+007617;20210930;2021;09;30;2.02.02.02.04;Passivos de Arrendamentos;5.000;8.000;Mil
+007617;20210930;2021;09;30;2.02.02.02.05;Outros tributos a recolher;0;0;Mil
+007617;20210930;2021;09;30;2.02.02.02.06;Fornecedores;0;7.000;Mil
+007617;20210930;2021;09;30;2.02.02.02.07;Outros tributos diferidos;39.000;19.000;Mil
+007617;20210930;2021;09;30;2.02.03;Tributos Diferidos;0;0;Mil
+007617;20210930;2021;09;30;2.02.03.01;Imposto de Renda e Contribuição Social Diferidos;0;0;Mil
+007617;20210930;2021;09;30;2.02.04;Provisões;1.375.000;1.349.000;Mil
+007617;20210930;2021;09;30;2.02.04.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1.375.000;1.349.000;Mil
+007617;20210930;2021;09;30;2.02.04.01.01;Provisões Fiscais;1.375.000;1.349.000;Mil
+007617;20210930;2021;09;30;2.02.04.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20210930;2021;09;30;2.02.04.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20210930;2021;09;30;2.02.04.01.04;Provisões Cíveis;0;0;Mil
+007617;20210930;2021;09;30;2.02.04.02;Outras Provisões;0;0;Mil
+007617;20210930;2021;09;30;2.02.04.02.01;Provisões para Garantias;0;0;Mil
+007617;20210930;2021;09;30;2.02.04.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20210930;2021;09;30;2.02.04.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20210930;2021;09;30;2.02.05;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20210930;2021;09;30;2.02.05.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20210930;2021;09;30;2.02.05.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20210930;2021;09;30;2.02.06;Lucros e Receitas a Apropriar;0;0;Mil
+007617;20210930;2021;09;30;2.02.06.01;Lucros a Apropriar;0;0;Mil
+007617;20210930;2021;09;30;2.02.06.02;Receitas a Apropriar;0;0;Mil
+007617;20210930;2021;09;30;2.02.06.03;Subvenções de Investimento a Apropriar;0;0;Mil
+007617;20210930;2021;09;30;2.03;Patrimônio Líquido;62.602.000;57.343.000;Mil
+007617;20210930;2021;09;30;2.03.01;Capital Social Realizado;43.515.000;43.515.000;Mil
+007617;20210930;2021;09;30;2.03.02;Reservas de Capital;412.000;580.000;Mil
+007617;20210930;2021;09;30;2.03.02.01;Ágio na Emissão de Ações;4.000;4.000;Mil
+007617;20210930;2021;09;30;2.03.02.02;Reserva Especial de Ágio na Incorporação;0;0;Mil
+007617;20210930;2021;09;30;2.03.02.03;Alienação de Bônus de Subscrição;0;0;Mil
+007617;20210930;2021;09;30;2.03.02.04;Opções Outorgadas;524.000;572.000;Mil
+007617;20210930;2021;09;30;2.03.02.05;Ações em Tesouraria;-90.000;0;Mil
+007617;20210930;2021;09;30;2.03.02.06;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20210930;2021;09;30;2.03.02.07;Opções por Incentivos Fiscais;2.000;2.000;Mil
+007617;20210930;2021;09;30;2.03.02.09;Outras Reservas de Capital;-28.000;2.000;Mil
+007617;20210930;2021;09;30;2.03.03;Reservas de Reavaliação;6.000;6.000;Mil
+007617;20210930;2021;09;30;2.03.04;Reservas de Lucros;20.608.000;14.545.000;Mil
+007617;20210930;2021;09;30;2.03.04.01;Reserva Legal;3.019.000;2.615.000;Mil
+007617;20210930;2021;09;30;2.03.04.02;Reserva Estatutária;16.289.000;11.882.000;Mil
+007617;20210930;2021;09;30;2.03.04.03;Reserva para Contingências;0;0;Mil
+007617;20210930;2021;09;30;2.03.04.04;Reserva de Lucros a Realizar;0;0;Mil
+007617;20210930;2021;09;30;2.03.04.05;Reserva de Retenção de Lucros;0;0;Mil
+007617;20210930;2021;09;30;2.03.04.06;Reserva Especial para Dividendos Não Distribuídos;0;0;Mil
+007617;20210930;2021;09;30;2.03.04.07;Reserva de Incentivos Fiscais;0;0;Mil
+007617;20210930;2021;09;30;2.03.04.08;Dividendo Adicional Proposto;1.300.000;48.000;Mil
+007617;20210930;2021;09;30;2.03.04.09;Ações em Tesouraria;0;0;Mil
+007617;20210930;2021;09;30;2.03.05;Lucros/Prejuízos Acumulados;0;0;Mil
+007617;20210930;2021;09;30;2.03.06;Ajustes de Avaliação Patrimonial;0;0;Mil
+007617;20210930;2021;09;30;2.03.07;Ajustes Acumulados de Conversão;0;0;Mil
+007617;20210930;2021;09;30;2.03.08;Outros Resultados Abrangentes;-1.939.000;-1.303.000;Mil
+007617;20230331;2023;03;31;2;Passivo Total;84.517.000;83.254.000;Mil
+007617;20230331;2023;03;31;2.01;Passivo Circulante;4.582.000;4.155.000;Mil
+007617;20230331;2023;03;31;2.01.01;Obrigações Sociais e Trabalhistas;30.000;54.000;Mil
+007617;20230331;2023;03;31;2.01.01.01;Obrigações Sociais;0;0;Mil
+007617;20230331;2023;03;31;2.01.01.02;Obrigações Trabalhistas;30.000;54.000;Mil
+007617;20230331;2023;03;31;2.01.02;Fornecedores;6.000;6.000;Mil
+007617;20230331;2023;03;31;2.01.02.01;Fornecedores Nacionais;6.000;6.000;Mil
+007617;20230331;2023;03;31;2.01.02.02;Fornecedores Estrangeiros;0;0;Mil
+007617;20230331;2023;03;31;2.01.03;Obrigações Fiscais;224.000;178.000;Mil
+007617;20230331;2023;03;31;2.01.03.01;Obrigações Fiscais Federais;224.000;178.000;Mil
+007617;20230331;2023;03;31;2.01.03.01.01;Imposto de Renda e Contribuição Social a Pagar;0;0;Mil
+007617;20230331;2023;03;31;2.01.03.01.02;Outras Obrigações Fiscais;224.000;178.000;Mil
+007617;20230331;2023;03;31;2.01.03.02;Obrigações Fiscais Estaduais;0;0;Mil
+007617;20230331;2023;03;31;2.01.03.03;Obrigações Fiscais Municipais;0;0;Mil
+007617;20230331;2023;03;31;2.01.04;Empréstimos e Financiamentos;397.000;160.000;Mil
+007617;20230331;2023;03;31;2.01.04.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20230331;2023;03;31;2.01.04.01.01;Em Moeda Nacional;0;0;Mil
+007617;20230331;2023;03;31;2.01.04.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20230331;2023;03;31;2.01.04.02;Debêntures;397.000;160.000;Mil
+007617;20230331;2023;03;31;2.01.04.03;Financiamento por Arrendamento;0;0;Mil
+007617;20230331;2023;03;31;2.01.05;Outras Obrigações;2.131.000;1.994.000;Mil
+007617;20230331;2023;03;31;2.01.05.01;Passivos com Partes Relacionadas;1.000;0;Mil
+007617;20230331;2023;03;31;2.01.05.01.01;Débitos com Coligadas;0;0;Mil
+007617;20230331;2023;03;31;2.01.05.01.02;Débitos com Controladas;0;0;Mil
+007617;20230331;2023;03;31;2.01.05.01.03;Débitos com Controladores;0;0;Mil
+007617;20230331;2023;03;31;2.01.05.01.04;Débitos com Outras Partes Relacionadas;1.000;0;Mil
+007617;20230331;2023;03;31;2.01.05.02;Outros;2.130.000;1.994.000;Mil
+007617;20230331;2023;03;31;2.01.05.02.01;Dividendos e JCP a Pagar;2.101.000;1.968.000;Mil
+007617;20230331;2023;03;31;2.01.05.02.02;Dividendo Mínimo Obrigatório a Pagar;0;0;Mil
+007617;20230331;2023;03;31;2.01.05.02.03;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20230331;2023;03;31;2.01.05.02.04;Outros Passivos;26.000;23.000;Mil
+007617;20230331;2023;03;31;2.01.05.02.05;Passivos de Arrendamentos;3.000;3.000;Mil
+007617;20230331;2023;03;31;2.01.06;Provisões;1.794.000;1.763.000;Mil
+007617;20230331;2023;03;31;2.01.06.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1.794.000;1.763.000;Mil
+007617;20230331;2023;03;31;2.01.06.01.01;Provisões Fiscais;1.794.000;1.763.000;Mil
+007617;20230331;2023;03;31;2.01.06.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20230331;2023;03;31;2.01.06.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20230331;2023;03;31;2.01.06.01.04;Provisões Cíveis;0;0;Mil
+007617;20230331;2023;03;31;2.01.06.02;Outras Provisões;0;0;Mil
+007617;20230331;2023;03;31;2.01.06.02.01;Provisões para Garantias;0;0;Mil
+007617;20230331;2023;03;31;2.01.06.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20230331;2023;03;31;2.01.06.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20230331;2023;03;31;2.01.07;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20230331;2023;03;31;2.01.07.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20230331;2023;03;31;2.01.07.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20230331;2023;03;31;2.02;Passivo Não Circulante;6.303.000;6.302.000;Mil
+007617;20230331;2023;03;31;2.02.01;Empréstimos e Financiamentos;6.288.000;6.287.000;Mil
+007617;20230331;2023;03;31;2.02.01.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20230331;2023;03;31;2.02.01.01.01;Em Moeda Nacional;0;0;Mil
+007617;20230331;2023;03;31;2.02.01.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20230331;2023;03;31;2.02.01.02;Debêntures;6.288.000;6.287.000;Mil
+007617;20230331;2023;03;31;2.02.01.03;Financiamento por Arrendamento;0;0;Mil
+007617;20230331;2023;03;31;2.02.02;Outras Obrigações;2.000;3.000;Mil
+007617;20230331;2023;03;31;2.02.02.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.01.01;Débitos com Coligadas;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.01.02;Débitos com Controladas;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.01.03;Débitos com Controladores;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.02;Outros;2.000;3.000;Mil
+007617;20230331;2023;03;31;2.02.02.02.01;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.02.02;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.02.03;Outros Passivos;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.02.04;Passivos de Arrendamentos;1.000;2.000;Mil
+007617;20230331;2023;03;31;2.02.02.02.05;Outros tributos a recolher;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.02.06;Fornecedores;0;0;Mil
+007617;20230331;2023;03;31;2.02.02.02.07;Outros tributos diferidos;1.000;1.000;Mil
+007617;20230331;2023;03;31;2.02.03;Tributos Diferidos;0;0;Mil
+007617;20230331;2023;03;31;2.02.03.01;Imposto de Renda e Contribuição Social Diferidos;0;0;Mil
+007617;20230331;2023;03;31;2.02.04;Provisões;13.000;12.000;Mil
+007617;20230331;2023;03;31;2.02.04.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;13.000;12.000;Mil
+007617;20230331;2023;03;31;2.02.04.01.01;Provisões Fiscais;13.000;12.000;Mil
+007617;20230331;2023;03;31;2.02.04.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20230331;2023;03;31;2.02.04.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20230331;2023;03;31;2.02.04.01.04;Provisões Cíveis;0;0;Mil
+007617;20230331;2023;03;31;2.02.04.02;Outras Provisões;0;0;Mil
+007617;20230331;2023;03;31;2.02.04.02.01;Provisões para Garantias;0;0;Mil
+007617;20230331;2023;03;31;2.02.04.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20230331;2023;03;31;2.02.04.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20230331;2023;03;31;2.02.05;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20230331;2023;03;31;2.02.05.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20230331;2023;03;31;2.02.05.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20230331;2023;03;31;2.02.06;Lucros e Receitas a Apropriar;0;0;Mil
+007617;20230331;2023;03;31;2.02.06.01;Lucros a Apropriar;0;0;Mil
+007617;20230331;2023;03;31;2.02.06.02;Receitas a Apropriar;0;0;Mil
+007617;20230331;2023;03;31;2.02.06.03;Subvenções de Investimento a Apropriar;0;0;Mil
+007617;20230331;2023;03;31;2.03;Patrimônio Líquido;73.632.000;72.797.000;Mil
+007617;20230331;2023;03;31;2.03.01;Capital Social Realizado;63.500.000;63.500.000;Mil
+007617;20230331;2023;03;31;2.03.02;Reservas de Capital;382.000;563.000;Mil
+007617;20230331;2023;03;31;2.03.02.01;Ágio na Emissão de Ações;4.000;4.000;Mil
+007617;20230331;2023;03;31;2.03.02.02;Reserva Especial de Ágio na Incorporação;0;0;Mil
+007617;20230331;2023;03;31;2.03.02.03;Alienação de Bônus de Subscrição;0;0;Mil
+007617;20230331;2023;03;31;2.03.02.04;Opções Outorgadas;538.000;688.000;Mil
+007617;20230331;2023;03;31;2.03.02.05;Ações em Tesouraria;0;0;Mil
+007617;20230331;2023;03;31;2.03.02.06;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20230331;2023;03;31;2.03.02.07;Opções por Incentivos Fiscais;2.000;2.000;Mil
+007617;20230331;2023;03;31;2.03.02.08;Reservas de Reavaliação;6.000;6.000;Mil
+007617;20230331;2023;03;31;2.03.02.09;Outras Reservas de Capital;-168.000;-137.000;Mil
+007617;20230331;2023;03;31;2.03.03;Reservas de Reavaliação;0;0;Mil
+007617;20230331;2023;03;31;2.03.04;Reservas de Lucros;14.729.000;13.598.000;Mil
+007617;20230331;2023;03;31;2.03.04.01;Reserva Legal;4.049.000;3.909.000;Mil
+007617;20230331;2023;03;31;2.03.04.02;Reserva Estatutária;10.484.000;8.812.000;Mil
+007617;20230331;2023;03;31;2.03.04.03;Reserva para Contingências;0;0;Mil
+007617;20230331;2023;03;31;2.03.04.04;Reserva de Lucros a Realizar;0;0;Mil
+007617;20230331;2023;03;31;2.03.04.05;Reserva de Retenção de Lucros;0;0;Mil
+007617;20230331;2023;03;31;2.03.04.06;Reserva Especial para Dividendos Não Distribuídos;0;0;Mil
+007617;20230331;2023;03;31;2.03.04.07;Reserva de Incentivos Fiscais;0;0;Mil
+007617;20230331;2023;03;31;2.03.04.08;Dividendo Adicional Proposto;196.000;877.000;Mil
+007617;20230331;2023;03;31;2.03.04.09;Ações em Tesouraria;0;0;Mil
+007617;20230331;2023;03;31;2.03.05;Lucros/Prejuízos Acumulados;0;0;Mil
+007617;20230331;2023;03;31;2.03.06;Ajustes de Avaliação Patrimonial;0;0;Mil
+007617;20230331;2023;03;31;2.03.07;Ajustes Acumulados de Conversão;0;0;Mil
+007617;20230331;2023;03;31;2.03.08;Outros Resultados Abrangentes;-4.979.000;-4.864.000;Mil
+007617;20230630;2023;06;30;2;Passivo Total;88.423.000;83.254.000;Mil
+007617;20230630;2023;06;30;2.01;Passivo Circulante;5.254.000;4.155.000;Mil
+007617;20230630;2023;06;30;2.01.01;Obrigações Sociais e Trabalhistas;28.000;54.000;Mil
+007617;20230630;2023;06;30;2.01.01.01;Obrigações Sociais;0;0;Mil
+007617;20230630;2023;06;30;2.01.01.02;Obrigações Trabalhistas;28.000;54.000;Mil
+007617;20230630;2023;06;30;2.01.02;Fornecedores;8.000;6.000;Mil
+007617;20230630;2023;06;30;2.01.02.01;Fornecedores Nacionais;8.000;6.000;Mil
+007617;20230630;2023;06;30;2.01.02.02;Fornecedores Estrangeiros;0;0;Mil
+007617;20230630;2023;06;30;2.01.03;Obrigações Fiscais;273.000;178.000;Mil
+007617;20230630;2023;06;30;2.01.03.01;Obrigações Fiscais Federais;273.000;178.000;Mil
+007617;20230630;2023;06;30;2.01.03.01.01;Imposto de Renda e Contribuição Social a Pagar;16.000;0;Mil
+007617;20230630;2023;06;30;2.01.03.01.02;Outras Obrigações Fiscais;257.000;178.000;Mil
+007617;20230630;2023;06;30;2.01.03.02;Obrigações Fiscais Estaduais;0;0;Mil
+007617;20230630;2023;06;30;2.01.03.03;Obrigações Fiscais Municipais;0;0;Mil
+007617;20230630;2023;06;30;2.01.04;Empréstimos e Financiamentos;347.000;160.000;Mil
+007617;20230630;2023;06;30;2.01.04.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20230630;2023;06;30;2.01.04.01.01;Em Moeda Nacional;0;0;Mil
+007617;20230630;2023;06;30;2.01.04.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20230630;2023;06;30;2.01.04.02;Debêntures;347.000;160.000;Mil
+007617;20230630;2023;06;30;2.01.04.03;Financiamento por Arrendamento;0;0;Mil
+007617;20230630;2023;06;30;2.01.05;Outras Obrigações;2.775.000;1.994.000;Mil
+007617;20230630;2023;06;30;2.01.05.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20230630;2023;06;30;2.01.05.01.01;Débitos com Coligadas;0;0;Mil
+007617;20230630;2023;06;30;2.01.05.01.02;Débitos com Controladas;0;0;Mil
+007617;20230630;2023;06;30;2.01.05.01.03;Débitos com Controladores;0;0;Mil
+007617;20230630;2023;06;30;2.01.05.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20230630;2023;06;30;2.01.05.02;Outros;2.775.000;1.994.000;Mil
+007617;20230630;2023;06;30;2.01.05.02.01;Dividendos e JCP a Pagar;2.745.000;1.968.000;Mil
+007617;20230630;2023;06;30;2.01.05.02.02;Dividendo Mínimo Obrigatório a Pagar;0;0;Mil
+007617;20230630;2023;06;30;2.01.05.02.03;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20230630;2023;06;30;2.01.05.02.04;Outros Passivos;27.000;23.000;Mil
+007617;20230630;2023;06;30;2.01.05.02.05;Passivos de Arrendamentos;3.000;3.000;Mil
+007617;20230630;2023;06;30;2.01.06;Provisões;1.823.000;1.763.000;Mil
+007617;20230630;2023;06;30;2.01.06.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1.823.000;1.763.000;Mil
+007617;20230630;2023;06;30;2.01.06.01.01;Provisões Fiscais;1.823.000;1.763.000;Mil
+007617;20230630;2023;06;30;2.01.06.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20230630;2023;06;30;2.01.06.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20230630;2023;06;30;2.01.06.01.04;Provisões Cíveis;0;0;Mil
+007617;20230630;2023;06;30;2.01.06.02;Outras Provisões;0;0;Mil
+007617;20230630;2023;06;30;2.01.06.02.01;Provisões para Garantias;0;0;Mil
+007617;20230630;2023;06;30;2.01.06.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20230630;2023;06;30;2.01.06.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20230630;2023;06;30;2.01.07;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20230630;2023;06;30;2.01.07.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20230630;2023;06;30;2.01.07.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20230630;2023;06;30;2.02;Passivo Não Circulante;6.302.000;6.302.000;Mil
+007617;20230630;2023;06;30;2.02.01;Empréstimos e Financiamentos;6.288.000;6.287.000;Mil
+007617;20230630;2023;06;30;2.02.01.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20230630;2023;06;30;2.02.01.01.01;Em Moeda Nacional;0;0;Mil
+007617;20230630;2023;06;30;2.02.01.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20230630;2023;06;30;2.02.01.02;Debêntures;6.288.000;6.287.000;Mil
+007617;20230630;2023;06;30;2.02.01.03;Financiamento por Arrendamento;0;0;Mil
+007617;20230630;2023;06;30;2.02.02;Outras Obrigações;2.000;3.000;Mil
+007617;20230630;2023;06;30;2.02.02.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.01.01;Débitos com Coligadas;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.01.02;Débitos com Controladas;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.01.03;Débitos com Controladores;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.02;Outros;2.000;3.000;Mil
+007617;20230630;2023;06;30;2.02.02.02.01;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.02.02;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.02.03;Outros Passivos;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.02.04;Passivos de Arrendamentos;0;2.000;Mil
+007617;20230630;2023;06;30;2.02.02.02.05;Outros tributos a recolher;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.02.06;Fornecedores;0;0;Mil
+007617;20230630;2023;06;30;2.02.02.02.07;Outros tributos diferidos;2.000;1.000;Mil
+007617;20230630;2023;06;30;2.02.03;Tributos Diferidos;0;0;Mil
+007617;20230630;2023;06;30;2.02.03.01;Imposto de Renda e Contribuição Social Diferidos;0;0;Mil
+007617;20230630;2023;06;30;2.02.04;Provisões;12.000;12.000;Mil
+007617;20230630;2023;06;30;2.02.04.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;12.000;12.000;Mil
+007617;20230630;2023;06;30;2.02.04.01.01;Provisões Fiscais;12.000;12.000;Mil
+007617;20230630;2023;06;30;2.02.04.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20230630;2023;06;30;2.02.04.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20230630;2023;06;30;2.02.04.01.04;Provisões Cíveis;0;0;Mil
+007617;20230630;2023;06;30;2.02.04.02;Outras Provisões;0;0;Mil
+007617;20230630;2023;06;30;2.02.04.02.01;Provisões para Garantias;0;0;Mil
+007617;20230630;2023;06;30;2.02.04.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20230630;2023;06;30;2.02.04.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20230630;2023;06;30;2.02.05;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20230630;2023;06;30;2.02.05.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20230630;2023;06;30;2.02.05.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20230630;2023;06;30;2.02.06;Lucros e Receitas a Apropriar;0;0;Mil
+007617;20230630;2023;06;30;2.02.06.01;Lucros a Apropriar;0;0;Mil
+007617;20230630;2023;06;30;2.02.06.02;Receitas a Apropriar;0;0;Mil
+007617;20230630;2023;06;30;2.02.06.03;Subvenções de Investimento a Apropriar;0;0;Mil
+007617;20230630;2023;06;30;2.03;Patrimônio Líquido;76.867.000;72.797.000;Mil
+007617;20230630;2023;06;30;2.03.01;Capital Social Realizado;63.500.000;63.500.000;Mil
+007617;20230630;2023;06;30;2.03.02;Reservas de Capital;499.000;563.000;Mil
+007617;20230630;2023;06;30;2.03.02.01;Ágio na Emissão de Ações;4.000;4.000;Mil
+007617;20230630;2023;06;30;2.03.02.02;Reserva Especial de Ágio na Incorporação;0;0;Mil
+007617;20230630;2023;06;30;2.03.02.03;Alienação de Bônus de Subscrição;0;0;Mil
+007617;20230630;2023;06;30;2.03.02.04;Opções Outorgadas;601.000;688.000;Mil
+007617;20230630;2023;06;30;2.03.02.05;Ações em Tesouraria;0;0;Mil
+007617;20230630;2023;06;30;2.03.02.06;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20230630;2023;06;30;2.03.02.07;Opções por Incentivos Fiscais;2.000;2.000;Mil
+007617;20230630;2023;06;30;2.03.02.08;Reservas de Reavaliação;6.000;6.000;Mil
+007617;20230630;2023;06;30;2.03.02.09;Outras Reservas de Capital;-114.000;-137.000;Mil
+007617;20230630;2023;06;30;2.03.03;Reservas de Reavaliação;0;0;Mil
+007617;20230630;2023;06;30;2.03.04;Reservas de Lucros;17.354.000;13.598.000;Mil
+007617;20230630;2023;06;30;2.03.04.01;Reserva Legal;4.229.000;3.909.000;Mil
+007617;20230630;2023;06;30;2.03.04.02;Reserva Estatutária;12.595.000;8.812.000;Mil
+007617;20230630;2023;06;30;2.03.04.03;Reserva para Contingências;0;0;Mil
+007617;20230630;2023;06;30;2.03.04.04;Reserva de Lucros a Realizar;0;0;Mil
+007617;20230630;2023;06;30;2.03.04.05;Reserva de Retenção de Lucros;0;0;Mil
+007617;20230630;2023;06;30;2.03.04.06;Reserva Especial para Dividendos Não Distribuídos;0;0;Mil
+007617;20230630;2023;06;30;2.03.04.07;Reserva de Incentivos Fiscais;0;0;Mil
+007617;20230630;2023;06;30;2.03.04.08;Dividendo Adicional Proposto;530.000;877.000;Mil
+007617;20230630;2023;06;30;2.03.04.09;Ações em Tesouraria;0;0;Mil
+007617;20230630;2023;06;30;2.03.05;Lucros/Prejuízos Acumulados;0;0;Mil
+007617;20230630;2023;06;30;2.03.06;Ajustes de Avaliação Patrimonial;0;0;Mil
+007617;20230630;2023;06;30;2.03.07;Ajustes Acumulados de Conversão;0;0;Mil
+007617;20230630;2023;06;30;2.03.08;Outros Resultados Abrangentes;-4.486.000;-4.864.000;Mil
+007617;20230930;2023;09;30;2;Passivo Total;88.685.000;83.254.000;Mil
+007617;20230930;2023;09;30;2.01;Passivo Circulante;4.144.000;4.155.000;Mil
+007617;20230930;2023;09;30;2.01.01;Obrigações Sociais e Trabalhistas;43.000;54.000;Mil
+007617;20230930;2023;09;30;2.01.01.01;Obrigações Sociais;0;0;Mil
+007617;20230930;2023;09;30;2.01.01.02;Obrigações Trabalhistas;43.000;54.000;Mil
+007617;20230930;2023;09;30;2.01.02;Fornecedores;12.000;6.000;Mil
+007617;20230930;2023;09;30;2.01.02.01;Fornecedores Nacionais;12.000;6.000;Mil
+007617;20230930;2023;09;30;2.01.02.02;Fornecedores Estrangeiros;0;0;Mil
+007617;20230930;2023;09;30;2.01.03;Obrigações Fiscais;234.000;178.000;Mil
+007617;20230930;2023;09;30;2.01.03.01;Obrigações Fiscais Federais;234.000;178.000;Mil
+007617;20230930;2023;09;30;2.01.03.01.01;Imposto de Renda e Contribuição Social a Pagar;0;0;Mil
+007617;20230930;2023;09;30;2.01.03.01.02;Outras Obrigações Fiscais;234.000;178.000;Mil
+007617;20230930;2023;09;30;2.01.03.02;Obrigações Fiscais Estaduais;0;0;Mil
+007617;20230930;2023;09;30;2.01.03.03;Obrigações Fiscais Municipais;0;0;Mil
+007617;20230930;2023;09;30;2.01.04;Empréstimos e Financiamentos;164.000;160.000;Mil
+007617;20230930;2023;09;30;2.01.04.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20230930;2023;09;30;2.01.04.01.01;Em Moeda Nacional;0;0;Mil
+007617;20230930;2023;09;30;2.01.04.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20230930;2023;09;30;2.01.04.02;Debêntures;164.000;160.000;Mil
+007617;20230930;2023;09;30;2.01.04.03;Financiamento por Arrendamento;0;0;Mil
+007617;20230930;2023;09;30;2.01.05;Outras Obrigações;1.834.000;1.994.000;Mil
+007617;20230930;2023;09;30;2.01.05.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20230930;2023;09;30;2.01.05.01.01;Débitos com Coligadas;0;0;Mil
+007617;20230930;2023;09;30;2.01.05.01.02;Débitos com Controladas;0;0;Mil
+007617;20230930;2023;09;30;2.01.05.01.03;Débitos com Controladores;0;0;Mil
+007617;20230930;2023;09;30;2.01.05.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20230930;2023;09;30;2.01.05.02;Outros;1.834.000;1.994.000;Mil
+007617;20230930;2023;09;30;2.01.05.02.01;Dividendos e JCP a Pagar;1.829.000;1.968.000;Mil
+007617;20230930;2023;09;30;2.01.05.02.02;Dividendo Mínimo Obrigatório a Pagar;0;0;Mil
+007617;20230930;2023;09;30;2.01.05.02.03;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20230930;2023;09;30;2.01.05.02.05;Passivos de Arrendamentos;2.000;3.000;Mil
+007617;20230930;2023;09;30;2.01.05.02.06;Outros Passivos;3.000;23.000;Mil
+007617;20230930;2023;09;30;2.01.06;Provisões;1.857.000;1.763.000;Mil
+007617;20230930;2023;09;30;2.01.06.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1.857.000;1.763.000;Mil
+007617;20230930;2023;09;30;2.01.06.01.01;Provisões Fiscais;1.857.000;1.763.000;Mil
+007617;20230930;2023;09;30;2.01.06.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20230930;2023;09;30;2.01.06.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20230930;2023;09;30;2.01.06.01.04;Provisões Cíveis;0;0;Mil
+007617;20230930;2023;09;30;2.01.06.02;Outras Provisões;0;0;Mil
+007617;20230930;2023;09;30;2.01.06.02.01;Provisões para Garantias;0;0;Mil
+007617;20230930;2023;09;30;2.01.06.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20230930;2023;09;30;2.01.06.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20230930;2023;09;30;2.01.07;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20230930;2023;09;30;2.01.07.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20230930;2023;09;30;2.01.07.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20230930;2023;09;30;2.02;Passivo Não Circulante;4.803.000;6.302.000;Mil
+007617;20230930;2023;09;30;2.02.01;Empréstimos e Financiamentos;4.790.000;6.287.000;Mil
+007617;20230930;2023;09;30;2.02.01.01;Empréstimos e Financiamentos;0;0;Mil
+007617;20230930;2023;09;30;2.02.01.01.01;Em Moeda Nacional;0;0;Mil
+007617;20230930;2023;09;30;2.02.01.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20230930;2023;09;30;2.02.01.02;Debêntures;4.790.000;6.287.000;Mil
+007617;20230930;2023;09;30;2.02.01.03;Financiamento por Arrendamento;0;0;Mil
+007617;20230930;2023;09;30;2.02.02;Outras Obrigações;1.000;3.000;Mil
+007617;20230930;2023;09;30;2.02.02.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.01.01;Débitos com Coligadas;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.01.02;Débitos com Controladas;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.01.03;Débitos com Controladores;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.02;Outros;1.000;3.000;Mil
+007617;20230930;2023;09;30;2.02.02.02.01;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.02.02;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.02.03;Outros Passivos;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.02.04;Passivos de Arrendamentos;0;2.000;Mil
+007617;20230930;2023;09;30;2.02.02.02.05;Outros tributos a recolher;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.02.06;Fornecedores;0;0;Mil
+007617;20230930;2023;09;30;2.02.02.02.07;Outros tributos diferidos;1.000;1.000;Mil
+007617;20230930;2023;09;30;2.02.03;Tributos Diferidos;0;0;Mil
+007617;20230930;2023;09;30;2.02.03.01;Imposto de Renda e Contribuição Social Diferidos;0;0;Mil
+007617;20230930;2023;09;30;2.02.04;Provisões;12.000;12.000;Mil
+007617;20230930;2023;09;30;2.02.04.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;12.000;12.000;Mil
+007617;20230930;2023;09;30;2.02.04.01.01;Provisões Fiscais;12.000;12.000;Mil
+007617;20230930;2023;09;30;2.02.04.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20230930;2023;09;30;2.02.04.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20230930;2023;09;30;2.02.04.01.04;Provisões Cíveis;0;0;Mil
+007617;20230930;2023;09;30;2.02.04.02;Outras Provisões;0;0;Mil
+007617;20230930;2023;09;30;2.02.04.02.01;Provisões para Garantias;0;0;Mil
+007617;20230930;2023;09;30;2.02.04.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20230930;2023;09;30;2.02.04.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20230930;2023;09;30;2.02.05;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20230930;2023;09;30;2.02.05.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20230930;2023;09;30;2.02.05.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20230930;2023;09;30;2.02.06;Lucros e Receitas a Apropriar;0;0;Mil
+007617;20230930;2023;09;30;2.02.06.01;Lucros a Apropriar;0;0;Mil
+007617;20230930;2023;09;30;2.02.06.02;Receitas a Apropriar;0;0;Mil
+007617;20230930;2023;09;30;2.02.06.03;Subvenções de Investimento a Apropriar;0;0;Mil
+007617;20230930;2023;09;30;2.03;Patrimônio Líquido;79.738.000;72.797.000;Mil
+007617;20230930;2023;09;30;2.03.01;Capital Social Realizado;63.500.000;63.500.000;Mil
+007617;20230930;2023;09;30;2.03.02;Reservas de Capital;617.000;563.000;Mil
+007617;20230930;2023;09;30;2.03.02.01;Ágio na Emissão de Ações;4.000;4.000;Mil
+007617;20230930;2023;09;30;2.03.02.02;Reserva Especial de Ágio na Incorporação;0;0;Mil
+007617;20230930;2023;09;30;2.03.02.03;Alienação de Bônus de Subscrição;0;0;Mil
+007617;20230930;2023;09;30;2.03.02.04;Opções Outorgadas;624.000;688.000;Mil
+007617;20230930;2023;09;30;2.03.02.05;Ações em Tesouraria;0;0;Mil
+007617;20230930;2023;09;30;2.03.02.06;Adiantamento para Futuro Aumento de Capital;36.000;0;Mil
+007617;20230930;2023;09;30;2.03.02.07;Incentivos Fiscais;2.000;2.000;Mil
+007617;20230930;2023;09;30;2.03.02.08;Reservas de Reavaliação;6.000;6.000;Mil
+007617;20230930;2023;09;30;2.03.02.09;Outras Reservas de Capital;-55.000;-137.000;Mil
+007617;20230930;2023;09;30;2.03.03;Reservas de Reavaliação;0;0;Mil
+007617;20230930;2023;09;30;2.03.04;Reservas de Lucros;19.211.000;13.598.000;Mil
+007617;20230930;2023;09;30;2.03.04.01;Reserva Legal;4.433.000;3.909.000;Mil
+007617;20230930;2023;09;30;2.03.04.02;Reserva Estatutária;13.033.000;8.812.000;Mil
+007617;20230930;2023;09;30;2.03.04.03;Reserva para Contingências;0;0;Mil
+007617;20230930;2023;09;30;2.03.04.04;Reserva de Lucros a Realizar;0;0;Mil
+007617;20230930;2023;09;30;2.03.04.05;Reserva de Retenção de Lucros;0;0;Mil
+007617;20230930;2023;09;30;2.03.04.06;Reserva Especial para Dividendos Não Distribuídos;0;0;Mil
+007617;20230930;2023;09;30;2.03.04.07;Reserva de Incentivos Fiscais;0;0;Mil
+007617;20230930;2023;09;30;2.03.04.08;Dividendo Adicional Proposto;1.745.000;877.000;Mil
+007617;20230930;2023;09;30;2.03.04.09;Ações em Tesouraria;0;0;Mil
+007617;20230930;2023;09;30;2.03.05;Lucros/Prejuízos Acumulados;0;0;Mil
+007617;20230930;2023;09;30;2.03.06;Ajustes de Avaliação Patrimonial;0;0;Mil
+007617;20230930;2023;09;30;2.03.07;Ajustes Acumulados de Conversão;0;0;Mil
+007617;20230930;2023;09;30;2.03.08;Outros Resultados Abrangentes;-3.590.000;-4.864.000;Mil
+007617;20240331;2024;03;31;2;Passivo Total;88.147.000;89.898.000;Mil
+007617;20240331;2024;03;31;2.01;Passivo Circulante;1.264.000;1.255.000;Mil
+007617;20240331;2024;03;31;2.01.01;Obrigações Sociais e Trabalhistas;29.000;53.000;Mil
+007617;20240331;2024;03;31;2.01.01.01;Obrigações Sociais;0;0;Mil
+007617;20240331;2024;03;31;2.01.01.02;Obrigações Trabalhistas;29.000;53.000;Mil
+007617;20240331;2024;03;31;2.01.02;Fornecedores;9.000;11.000;Mil
+007617;20240331;2024;03;31;2.01.02.01;Fornecedores Nacionais;9.000;11.000;Mil
+007617;20240331;2024;03;31;2.01.02.02;Fornecedores Estrangeiros;0;0;Mil
+007617;20240331;2024;03;31;2.01.03;Obrigações Fiscais;205.000;97.000;Mil
+007617;20240331;2024;03;31;2.01.03.01;Obrigações Fiscais Federais;205.000;97.000;Mil
+007617;20240331;2024;03;31;2.01.03.01.01;Imposto de Renda e Contribuição Social a Pagar;0;0;Mil
+007617;20240331;2024;03;31;2.01.03.01.02;Outras Obrigações Fiscais;205.000;97.000;Mil
+007617;20240331;2024;03;31;2.01.03.02;Obrigações Fiscais Estaduais;0;0;Mil
+007617;20240331;2024;03;31;2.01.03.03;Obrigações Fiscais Municipais;0;0;Mil
+007617;20240331;2024;03;31;2.01.04;Empréstimos e Financiamentos;142.000;17.000;Mil
+007617;20240331;2024;03;31;2.01.04.01;Empréstimos e Financiamentos;7.000;0;Mil
+007617;20240331;2024;03;31;2.01.04.01.01;Em Moeda Nacional;7.000;0;Mil
+007617;20240331;2024;03;31;2.01.04.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20240331;2024;03;31;2.01.04.02;Debêntures;135.000;17.000;Mil
+007617;20240331;2024;03;31;2.01.04.03;Financiamento por Arrendamento;0;0;Mil
+007617;20240331;2024;03;31;2.01.05;Outras Obrigações;879.000;1.077.000;Mil
+007617;20240331;2024;03;31;2.01.05.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20240331;2024;03;31;2.01.05.01.01;Débitos com Coligadas;0;0;Mil
+007617;20240331;2024;03;31;2.01.05.01.02;Débitos com Controladas;0;0;Mil
+007617;20240331;2024;03;31;2.01.05.01.03;Débitos com Controladores;0;0;Mil
+007617;20240331;2024;03;31;2.01.05.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20240331;2024;03;31;2.01.05.02;Outros;879.000;1.077.000;Mil
+007617;20240331;2024;03;31;2.01.05.02.01;Dividendos e JCP a Pagar;872.000;1.073.000;Mil
+007617;20240331;2024;03;31;2.01.05.02.02;Dividendo Mínimo Obrigatório a Pagar;0;0;Mil
+007617;20240331;2024;03;31;2.01.05.02.03;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20240331;2024;03;31;2.01.05.02.04;Passivos de Arrendamentos;1.000;2.000;Mil
+007617;20240331;2024;03;31;2.01.05.02.05;Outros Passivos;6.000;2.000;Mil
+007617;20240331;2024;03;31;2.01.06;Provisões;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.01.01;Provisões Fiscais;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.01.04;Provisões Cíveis;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.02;Outras Provisões;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.02.01;Provisões para Garantias;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20240331;2024;03;31;2.01.06.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20240331;2024;03;31;2.01.07;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20240331;2024;03;31;2.01.07.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20240331;2024;03;31;2.01.07.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20240331;2024;03;31;2.02;Passivo Não Circulante;6.448.000;5.691.000;Mil
+007617;20240331;2024;03;31;2.02.01;Empréstimos e Financiamentos;4.522.000;3.791.000;Mil
+007617;20240331;2024;03;31;2.02.01.01;Empréstimos e Financiamentos;731.000;0;Mil
+007617;20240331;2024;03;31;2.02.01.01.01;Em Moeda Nacional;731.000;0;Mil
+007617;20240331;2024;03;31;2.02.01.01.02;Em Moeda Estrangeira;0;0;Mil
+007617;20240331;2024;03;31;2.02.01.02;Debêntures;3.791.000;3.791.000;Mil
+007617;20240331;2024;03;31;2.02.01.03;Financiamento por Arrendamento;0;0;Mil
+007617;20240331;2024;03;31;2.02.02;Outras Obrigações;2.000;2.000;Mil
+007617;20240331;2024;03;31;2.02.02.01;Passivos com Partes Relacionadas;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.01.01;Débitos com Coligadas;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.01.02;Débitos com Controladas;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.01.03;Débitos com Controladores;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.01.04;Débitos com Outras Partes Relacionadas;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.02;Outros;2.000;2.000;Mil
+007617;20240331;2024;03;31;2.02.02.02.01;Obrigações por Pagamentos Baseados em Ações;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.02.02;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.02.03;Outros Passivos;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.02.04;Passivos de Arrendamentos;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.02.05;Outros tributos a recolher;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.02.06;Fornecedores;0;0;Mil
+007617;20240331;2024;03;31;2.02.02.02.07;Outros tributos diferidos;1.000;2.000;Mil
+007617;20240331;2024;03;31;2.02.02.02.08;Obrigações Trabalhistas;1.000;0;Mil
+007617;20240331;2024;03;31;2.02.03;Tributos Diferidos;0;0;Mil
+007617;20240331;2024;03;31;2.02.03.01;Imposto de Renda e Contribuição Social Diferidos;0;0;Mil
+007617;20240331;2024;03;31;2.02.04;Provisões;1.924.000;1.898.000;Mil
+007617;20240331;2024;03;31;2.02.04.01;Provisões Fiscais Previdenciárias Trabalhistas e Cíveis;1.924.000;1.898.000;Mil
+007617;20240331;2024;03;31;2.02.04.01.01;Provisões Fiscais;1.924.000;1.898.000;Mil
+007617;20240331;2024;03;31;2.02.04.01.02;Provisões Previdenciárias e Trabalhistas;0;0;Mil
+007617;20240331;2024;03;31;2.02.04.01.03;Provisões para Benefícios a Empregados;0;0;Mil
+007617;20240331;2024;03;31;2.02.04.01.04;Provisões Cíveis;0;0;Mil
+007617;20240331;2024;03;31;2.02.04.02;Outras Provisões;0;0;Mil
+007617;20240331;2024;03;31;2.02.04.02.01;Provisões para Garantias;0;0;Mil
+007617;20240331;2024;03;31;2.02.04.02.02;Provisões para Reestruturação;0;0;Mil
+007617;20240331;2024;03;31;2.02.04.02.03;Provisões para Passivos Ambientais e de Desativação;0;0;Mil
+007617;20240331;2024;03;31;2.02.05;Passivos sobre Ativos Não-Correntes a Venda e Descontinuados;0;0;Mil
+007617;20240331;2024;03;31;2.02.05.01;Passivos sobre Ativos Não-Correntes a Venda;0;0;Mil
+007617;20240331;2024;03;31;2.02.05.02;Passivos sobre Ativos de Operações Descontinuadas;0;0;Mil
+007617;20240331;2024;03;31;2.02.06;Lucros e Receitas a Apropriar;0;0;Mil
+007617;20240331;2024;03;31;2.02.06.01;Lucros a Apropriar;0;0;Mil
+007617;20240331;2024;03;31;2.02.06.02;Receitas a Apropriar;0;0;Mil
+007617;20240331;2024;03;31;2.02.06.03;Subvenções de Investimento a Apropriar;0;0;Mil
+007617;20240331;2024;03;31;2.03;Patrimônio Líquido;80.435.000;82.952.000;Mil
+007617;20240331;2024;03;31;2.03.01;Capital Social Realizado;73.189.000;73.189.000;Mil
+007617;20240331;2024;03;31;2.03.02;Reservas de Capital;442.000;656.000;Mil
+007617;20240331;2024;03;31;2.03.02.01;Ágio na Emissão de Ações;4.000;4.000;Mil
+007617;20240331;2024;03;31;2.03.02.02;Reserva Especial de Ágio na Incorporação;0;0;Mil
+007617;20240331;2024;03;31;2.03.02.03;Alienação de Bônus de Subscrição;0;0;Mil
+007617;20240331;2024;03;31;2.03.02.04;Opções Outorgadas;0;0;Mil
+007617;20240331;2024;03;31;2.03.02.05;Ações em Tesouraria;-16.000;0;Mil
+007617;20240331;2024;03;31;2.03.02.06;Adiantamento para Futuro Aumento de Capital;0;0;Mil
+007617;20240331;2024;03;31;2.03.02.07;Opções por Incentivos Fiscais;2.000;2.000;Mil
+007617;20240331;2024;03;31;2.03.02.08;Reservas de Reavaliação;6.000;6.000;Mil
+007617;20240331;2024;03;31;2.03.02.09;Outras Reservas de Capital;-56.000;-55.000;Mil
+007617;20240331;2024;03;31;2.03.02.10;Plano de outorga e opções de ações;502.000;699.000;Mil
+007617;20240331;2024;03;31;2.03.03;Reservas de Reavaliação;0;0;Mil
+007617;20240331;2024;03;31;2.03.04;Reservas de Lucros;10.183.000;12.582.000;Mil
+007617;20240331;2024;03;31;2.03.04.01;Reserva Legal;4.756.000;4.582.000;Mil
+007617;20240331;2024;03;31;2.03.04.02;Reserva Estatutária;13.113.000;10.781.000;Mil
+007617;20240331;2024;03;31;2.03.04.03;Reserva para Contingências;0;0;Mil
+007617;20240331;2024;03;31;2.03.04.04;Reserva de Lucros a Realizar;0;0;Mil
+007617;20240331;2024;03;31;2.03.04.05;Reserva de Retenção de Lucros;0;0;Mil
+007617;20240331;2024;03;31;2.03.04.06;Reserva Especial para Dividendos Não Distribuídos;0;0;Mil
+007617;20240331;2024;03;31;2.03.04.07;Reserva de Incentivos Fiscais;0;0;Mil
+007617;20240331;2024;03;31;2.03.04.08;Dividendo Adicional Proposto;243.000;5.093.000;Mil
+007617;20240331;2024;03;31;2.03.04.09;Ações em Tesouraria;0;0;Mil
+007617;20240331;2024;03;31;2.03.04.10;Reservas reflexas;-7.929.000;-7.874.000;Mil
+007617;20240331;2024;03;31;2.03.05;Lucros/Prejuízos Acumulados;0;0;Mil
+007617;20240331;2024;03;31;2.03.06;Ajustes de Avaliação Patrimonial;-3.379.000;-3.475.000;Mil
+007617;20240331;2024;03;31;2.03.07;Ajustes Acumulados de Conversão;0;0;Mil
+007617;20240331;2024;03;31;2.03.08;Outros Resultados Abrangentes;0;0;Mil
